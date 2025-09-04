@@ -1,0 +1,14 @@
+C:\Users\Dmytro\source\repos\ZooProject\ZooProject\bin\Debug\net8.0\ZooProject.exe
+C:\Users\Dmytro\source\repos\ZooProject\ZooProject\bin\Debug\net8.0\ZooProject.deps.json
+C:\Users\Dmytro\source\repos\ZooProject\ZooProject\bin\Debug\net8.0\ZooProject.runtimeconfig.json
+C:\Users\Dmytro\source\repos\ZooProject\ZooProject\bin\Debug\net8.0\ZooProject.dll
+C:\Users\Dmytro\source\repos\ZooProject\ZooProject\bin\Debug\net8.0\ZooProject.pdb
+C:\Users\Dmytro\source\repos\ZooProject\ZooProject\obj\Debug\net8.0\ZooProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmytro\source\repos\ZooProject\ZooProject\obj\Debug\net8.0\ZooProject.AssemblyInfoInputs.cache
+C:\Users\Dmytro\source\repos\ZooProject\ZooProject\obj\Debug\net8.0\ZooProject.AssemblyInfo.cs
+C:\Users\Dmytro\source\repos\ZooProject\ZooProject\obj\Debug\net8.0\ZooProject.csproj.CoreCompileInputs.cache
+C:\Users\Dmytro\source\repos\ZooProject\ZooProject\obj\Debug\net8.0\ZooProject.dll
+C:\Users\Dmytro\source\repos\ZooProject\ZooProject\obj\Debug\net8.0\refint\ZooProject.dll
+C:\Users\Dmytro\source\repos\ZooProject\ZooProject\obj\Debug\net8.0\ZooProject.pdb
+C:\Users\Dmytro\source\repos\ZooProject\ZooProject\obj\Debug\net8.0\ZooProject.genruntimeconfig.cache
+C:\Users\Dmytro\source\repos\ZooProject\ZooProject\obj\Debug\net8.0\ref\ZooProject.dll
